@@ -1,0 +1,104 @@
+﻿.AutoComplete
+{
+    width: auto !important;
+    max-height: 220px !important;
+    overflow: auto;
+    list-style: none;
+    border : 1px solid red;
+    margin: 0px;
+    padding: 0px;
+    cursor:pointer;
+}
+.AutoCompletePOSearch
+{
+    width: auto !important;
+    max-height: 220px !important;
+    overflow: auto;
+    list-style: none;
+    border : 1px solid red;
+    margin: 0px;
+    padding: 0px;
+    cursor:pointer;
+}
+.AutoCompletePRSearch
+{
+    width: auto !important;
+    max-height: 220px !important;
+    overflow: auto;
+    list-style: none;
+    border : 1px solid red;
+    margin: 0px;
+    padding: 0px;
+    cursor:pointer;
+}
+.ProductAC
+{
+    width: auto !important;
+    max-height: 220px !important;
+    overflow: auto;
+    list-style: none;
+    border : 1px solid red;
+    margin: 0px;
+    padding: 0px;
+    cursor:pointer;
+}
+.ACDiv600
+{
+    width:600px;
+    display : table-cell;
+	padding : 5px 10px 5px 10px;
+}
+.ACDiv500
+{
+    width:500px;
+    display : table-cell;
+	padding : 5px 10px 5px 10px;
+}
+.ACDiv400
+{
+    width:400px;
+    display : table-cell;
+	padding : 5px 10px 5px 10px;
+}
+.ACDiv600:hover
+{
+    background-color : yellow;
+}
+.ACDiv500:hover
+{
+    background-color : yellow;
+}
+.ACDiv400:hover
+{
+    background-color : yellow;
+}
+.ACDiv300:hover
+{
+    background-color : yellow;
+}
+
+.ACDiv300
+{
+    width:400px;
+    display : table-cell;
+	padding : 5px 10px 5px 10px;
+}
+.ACLeft
+{
+    text-align:left;
+    float:left;
+    font-size:smaller;
+    font-weight:100;
+	display : inline;
+	pointer-events:none;
+}
+.ACRight
+{
+    text-align:right;
+    float:right;
+    font-size:x-small;
+    font-style:italic;
+    font-weight:700;
+	display : inline;
+	pointer-events:none;
+}
